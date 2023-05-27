@@ -1,4 +1,18 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<img src="./img/picture.png" alt="main"/>
+
+---
+
+<div style="display: flex; flex-direction: row;">
+
+<div style="height: 30%; width: 55%;">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruishanteo&hide_progress=true&theme=dark)
+
+</div>
+
+</div>
 
 ---
 
@@ -18,12 +32,6 @@
 </p>
   
 ---
-
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruishanteo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruishanteo&hide_progress=true&theme=dark)
 
 <!--
 **ruishanteo/ruishanteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
