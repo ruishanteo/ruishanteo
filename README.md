@@ -4,15 +4,13 @@
 
 ---
 
-<div style="display: flex; flex-direction: row;">
 
-<div style="height: 30%; width: 55%;">
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruishanteo&hide_progress=true&theme=dark)
 
 </div>
 
-</div>
 
 ---
 
