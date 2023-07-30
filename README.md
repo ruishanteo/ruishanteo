@@ -9,6 +9,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruishanteo&hide_progress=true&theme=dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruishanteo)](https://git.io/streak-stats)
+
 </div>
 
 
