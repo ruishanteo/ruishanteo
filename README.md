@@ -1,4 +1,4 @@
-<h1 align="center">hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> </h1>
 
 <img src="./img/picture.png" alt="main"/>
 
@@ -8,8 +8,6 @@
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruishanteo&hide_progress=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ruishanteo)](https://git.io/streak-stats)
 
 </div>
 
